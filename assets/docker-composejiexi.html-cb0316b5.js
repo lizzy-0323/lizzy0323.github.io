@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-17c463fb","path":"/blogs/jishu/docker-composejiexi.html","title":"Docker-compose解析","lang":"en-US","frontmatter":{"tags":["Docker"],"categories":["技术"]},"headers":[{"level":2,"title":"Docker-compose 是什么？","slug":"docker-compose-是什么","link":"#docker-compose-是什么","children":[]},{"level":2,"title":"什么场景要用 docker-compose？","slug":"什么场景要用-docker-compose","link":"#什么场景要用-docker-compose","children":[{"level":3,"title":"docker-compose.yaml与dockerfile的联系：","slug":"docker-compose-yaml与dockerfile的联系","link":"#docker-compose-yaml与dockerfile的联系","children":[]}]},{"level":2,"title":"Docker-compose 使用命令","slug":"docker-compose-使用命令","link":"#docker-compose-使用命令","children":[]},{"level":2,"title":"Docker-compose 的优点和不足","slug":"docker-compose-的优点和不足","link":"#docker-compose-的优点和不足","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/技术/docker-compose解析.md"}');
+export {
+  data
+};

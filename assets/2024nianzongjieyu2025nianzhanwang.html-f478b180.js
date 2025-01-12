@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-635edaa6","path":"/blogs/suibi/2024nianzongjieyu2025nianzhanwang.html","title":"2024年总结与2025年展望","lang":"en-US","frontmatter":{"sticky":1,"tags":["年度总结"],"date":"2025-01-03T00:00:00.000Z","categories":["随笔"]},"headers":[{"level":2,"title":"2024回顾","slug":"_2024回顾","link":"#_2024回顾","children":[{"level":3,"title":"代码","slug":"代码","link":"#代码","children":[]},{"level":3,"title":"认知","slug":"认知","link":"#认知","children":[]},{"level":3,"title":"生活","slug":"生活","link":"#生活","children":[]},{"level":3,"title":"健身","slug":"健身","link":"#健身","children":[]},{"level":3,"title":"投资","slug":"投资","link":"#投资","children":[]}]},{"level":2,"title":"2025 年憧憬","slug":"_2025-年憧憬","link":"#_2025-年憧憬","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/随笔/2024年总结与2025年展望.md"}');
+export {
+  data
+};

@@ -1,0 +1,4 @@
+const data = JSON.parse('{"key":"v-04c3ba67","path":"/blogs/jishu/UbuntudajianNFSfuwuqi.html","title":"Ubuntu搭建NFS服务器","lang":"en-US","frontmatter":{"title":"Ubuntu搭建NFS服务器","tags":["运维"],"categories":["技术"]},"headers":[{"level":2,"title":"什么是 NFS？","slug":"什么是-nfs","link":"#什么是-nfs","children":[]},{"level":2,"title":"Ubuntu 搭建 NFS server","slug":"ubuntu-搭建-nfs-server","link":"#ubuntu-搭建-nfs-server","children":[{"level":3,"title":"安装 nfs-kernal-server","slug":"安装-nfs-kernal-server","link":"#安装-nfs-kernal-server","children":[]},{"level":3,"title":"修改 NFS 配置文件","slug":"修改-nfs-配置文件","link":"#修改-nfs-配置文件","children":[]},{"level":3,"title":"重启服务","slug":"重启服务","link":"#重启服务","children":[]}]},{"level":2,"title":"测试 NFS 服务","slug":"测试-nfs-服务","link":"#测试-nfs-服务","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/技术/Ubuntu搭建NFS服务器.md"}');
+export {
+  data
+};
